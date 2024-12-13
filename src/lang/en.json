@@ -1,0 +1,27 @@
+{
+    "titres.titrePrincipal": "Final Project",
+    "titres.ajout":"Add a Character",
+    "titres.listePersonnages":"Characters",
+    "titres.modifier":"Modify {nomPersonnage}",
+
+    "details.description":"Description",
+    "details.personnagePrincipal":"Main Character",
+    "details.franchises":"Franchises",
+    "details.apparitions":"Appearances",
+
+    "formulaires.franchise":"Franchise",
+    "formulaires.apparition.titre":"Title",
+    "formulaires.apparition.media":"Media",
+    "formulaires.apparition.sortie":"Release Year",
+    "formulaires.nom":"Name",
+    "formulaires.auteur":"Author",
+    "formulaires.description":"Description",
+    "formulaires.franchisesListe":"Franchises",
+    "formulaires.apparitionListe":"Appearances",
+    "formulaires.personnagePrincipal":"Main Character",
+
+    "boutons.annuler":"Cancel",
+    "boutons.franchises":"Other Characters from this Franchise",
+    "boutons.enregistrer":"Save"
+    
+}

@@ -1,0 +1,26 @@
+{
+    "titres.titrePrincipal": "Projet Final",
+    "titres.ajout":"Ajouter un personnage",
+    "titres.listePersonnages":"Personnages",
+    "titres.modifier":"Modifier {nomPersonnage}",
+
+    "details.description":"Description",
+    "details.personnagePrincipal":"Personnage Principal",
+    "details.franchises":"Franchises",
+    "details.apparitions":"Apparitions",
+
+    "formulaires.franchise":"Franchise",
+    "formulaires.apparition.titre":"Titre",
+    "formulaires.apparition.media":"Média",
+    "formulaires.apparition.sortie":"Année de sortie",
+    "formulaires.nom":"Nom",
+    "formulaires.auteur":"Auteur",
+    "formulaires.description":"Description",
+    "formulaires.franchisesListe":"Franchises",
+    "formulaires.apparitionListe":"Apparitions",
+    "formulaires.personnagePrincipal":"Personnage Principal",
+
+    "boutons.annuler":"Annuler",
+    "boutons.franchises":"Autres Personnages de cette Franchise",
+    "boutons.enregistrer":"Enregistrer"
+}
